@@ -23,3 +23,4 @@ export default function Home() {
     </main>
   );
 }
+https://coolors.co/628395-96897b-dfd5a5-dbad6a-cf995f
